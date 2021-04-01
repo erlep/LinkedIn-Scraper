@@ -1,4 +1,4 @@
-# LinkedIn-Scraper v1.0 - from 24.03.2021 13:02
+# LinkedIn-Scraper v1.0
 
 Python script saves "python Brno" jobs offers from https://linkedin.com to .xls
 
